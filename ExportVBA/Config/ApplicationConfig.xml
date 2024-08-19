@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ApplicationConfig>
+	<TargetExcel>
+		<FileName>ExcelExtractTool.xlsm</FileName>
+		<TargetModule>
+			<Name>Module1</Name>
+			<MethodName>Main</MethodName>
+		</TargetModule>
+	</TargetExcel>
+</ApplicationConfig>
